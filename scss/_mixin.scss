@@ -1,0 +1,10 @@
+@mixin info {
+    color: $color-principal;
+    font-size: 1.1rem;    
+}
+
+
+.info2 {
+    @include info; 
+    font-size: 1.5rem;
+}
