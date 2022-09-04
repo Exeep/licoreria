@@ -36,4 +36,5 @@ body {
     color: $color-principal;
     font-size: 1.1rem;
 }
-@import "_mapget"
+@import "mapget";
+@import "extend";

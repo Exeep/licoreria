@@ -23,3 +23,10 @@ body {
 .card-text {
   color: #8E0E00;
   font-size: 30px; }
+
+.primerExtend, .segundoExtend {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: center; }
+
+.segundoExtend {
+  font-size: 20px; }
