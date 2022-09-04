@@ -1,0 +1,6 @@
+$estilo: (color:#8E0E00, tamFuente: 30px);
+
+.card-text {
+    color: map-get($estilo, color );
+    font-size: map-get($estilo, tamFuente);
+}

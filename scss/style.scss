@@ -15,9 +15,9 @@ p {
     align-content: center;
 }
 
-.card-text {
-    color: #8E0E00;
-}
+// .card-text {
+//     color: #8E0E00;
+// }
 .navvvvv {
     background-color: #f46b45;
 }
@@ -36,3 +36,4 @@ body {
     color: $color-principal;
     font-size: 1.1rem;
 }
+@import "_mapget"
