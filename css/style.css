@@ -1,5 +1,10 @@
 h1 {
-  color: #BE5869; }
+  color: #BE5869;
+  text-align: center; }
+
+h2 {
+  color: #BE5869;
+  font-size: 1.5rem; }
 
 p {
   color: #BE5869;
@@ -46,6 +51,23 @@ img {
   color: #090f79;
   text-transform: uppercase;
   text-decoration: solid; }
+
+.h2Envios {
+  color: green;
+  font-size: 1.7rem; }
+
+.divEnvios {
+  background-color: whitesmoke;
+  margin-left: 28%;
+  margin-top: 50px;
+  width: 45%;
+  opacity: 80%;
+  border-radius: 10px;
+  box-shadow: 1px 1px 5px rgba(241, 241, 241, 0.959); }
+
+.pEnvios {
+  color: black;
+  font-size: 15px; }
 
 .card-text {
   color: #8E0E00;
