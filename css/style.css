@@ -73,7 +73,7 @@ img {
   display: flex;
   flex-direction: column;
   text-align: center;
-  width: 50vw; }
+  width: 70vw; }
 
 .campo {
   display: inline-block; }
@@ -89,7 +89,7 @@ img {
   cursor: pointer;
   position: relative;
   bottom: 20px;
-  left: 20px; }
+  left: 10px; }
 
 .h3Contacto {
   color: orangered; }
